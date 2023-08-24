@@ -3,4 +3,4 @@ project(celery)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(celery main.cpp)
+add_executable(celery src/main.cpp)
